@@ -1,12 +1,20 @@
 {
-  "name": "node-example",
+  "name": "example",
   "version": "1.0.0",
   "description": "\"Simple node Examples\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node index"
+    "start": "node index"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ankit singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitsingh060/Backend_work.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankitsingh060/Backend_work/issues"
+  },
+  "homepage": "https://github.com/ankitsingh060/Backend_work#readme"
 }
